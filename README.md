@@ -41,7 +41,7 @@ Welcome to my GitHub! I'm a web developer passionate about backend development, 
 ---
 
 ### 📫 How to reach me:
-- Email:(mailto:mehernegar1133@gmail.com)
+- Email: [Meher Negar](mailto:mehernegar1133@gmail.com)
 - LinkedIn: [[LinkedIn](https://bd.linkedin.com/in/meher-negar-8a494028a?trk=people-guest_people_search-card&original_referer=https%3A%2F%2Fwww.linkedin.com%2F)](#)
 - Portfolio: [[portfolio](https://github.com/Meher-Negar)](#)
 
