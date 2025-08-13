@@ -47,8 +47,3 @@ Welcome to my GitHub! I'm a web developer passionate about backend development, 
 
 ---
 
-### ⚡ Fun fact
-When I'm not coding, I'm probably sketching or exploring new Laravel packages!
-
----
-
